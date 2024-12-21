@@ -1,4 +1,5 @@
 @extends('layout')
+
 @section('content')
-<h1>content</h1>
+    <h3>Серверная разработка</h3>
 @endsection
